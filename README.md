@@ -17,7 +17,7 @@ A Next.js 14 service that receives, verifies, and stores webhook events from thi
 ### Prerequisites
 
 - Node 18+
-- PostgreSQL running locally (the same instance from Task 1 works fine)
+- PostgreSQL running locally
 
 ### 1. Install dependencies
 
